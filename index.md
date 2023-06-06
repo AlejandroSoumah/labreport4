@@ -1,7 +1,7 @@
 # Lab Report 4
 
 Step 4
-![Image](lab4step4.png)
+![Image](step4.png)
 
 Keys pressed: typing in the login <'cs15lsp23att@ieng6.ucsd.edu'> <'enter'> and then the password <'enter'>
 
