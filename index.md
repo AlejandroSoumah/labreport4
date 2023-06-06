@@ -3,13 +3,13 @@
 ### Step 4
 ![Image](Step4.png)
 
-Keys pressed: typing in the login <'cs15lsp23att@ieng6.ucsd.edu'> <'enter'> and then the password <'enter'>
+Opened a new terminal and then I  pressed the keys: typing in the login <'cs15lsp23att@ieng6.ucsd.edu'> <'enter'> and then the password <'enter'>
 
 ### Step 5
 ![Image](Step5-1.png)
 I copied the forked github repo link from my github account.
   
-Keys pressed: git clone Ctrl+V <'enter'>
+Keys pressed: git clone Ctrl+V <'enter'> where Ctrl+V contained: `git@github.com:emilynpark/lab7.git`
 
 ### Step 6
 ![Image](Step6-1.png)
@@ -21,9 +21,9 @@ Copied and pasted the run command except for the end that states <'ArrayTests'> 
 
 ### Step 7
 ![Image](Step7-1.png)
-![Image](Step7-2.png)
-Ran into errors so I typed nano ListExamples.java to access the nano editor and fix the code.
 
+Ran into errors so I typed nano ListExamples.java to access the nano editor and fix the code.
+![Image](Step7-2.png)
 Keys pressed: <'down'> 14 times then <'right'> 21 times then <'backspace'> 2 times to delete the '<,0>'
 To fix the second error, I pressed <'down'> 28 more times and <'left'> 6 times to replace the "1" with "2" for "index1"
 
