@@ -33,6 +33,7 @@ Next, I pressed Ctrl + X to exit the vim editor and <Y> to confirm to save chang
 
 ### Step 8
 ![Image](Step8.png)
+
 I returned to the terminal and I ran the command bash test.sh to demonstrate that the error has been fixed and the tests now succeed.
 
 ### Step 9
