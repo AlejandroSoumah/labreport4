@@ -3,31 +3,33 @@
 ### Step 4
 ![Image](Step4.png)
 
-Opened a new terminal and then I  pressed the keys: typing in the login <'cs15lsp23att@ieng6.ucsd.edu'> <'enter'> and then the password <'enter'>
+Opened a new terminal and then I  pressed the keys: typing in the login <'cs15lsp23att@ieng6.ucsd.edu'> <'enter'> and then the password <'enter'> that executed the command
 
 ### Step 5
 ![Image](Step5-1.png)
 I copied the forked github repo link from my github account.
   
-Keys pressed: git clone Ctrl+V <'enter'> where Ctrl+V contained: `git@github.com:emilynpark/lab7.git`
+Keys pressed: git clone Ctrl+V <'enter'> where Ctrl+V contained: `git@github.com:alejandrosoumah/lab7.git` that pasted the command into the terminal
 
 ### Step 6
 ![Image](Step6-1.png)
-typed cd to change the directory then lab7 then <'enter'>
+Typed "cd" to change the directory. I then wrote "lab7" and then clicked <'enter'> this made it change the directory to "/lab7"
   
-Copied and pasted the compile command for the JUnit testing on the Mac provided in the week 3 of the cs15lsp23 github then pressed <'enter'>
+Copied and pasted the compile command for the JUnit testing of the cs15lsp23 github  and then pressed <'enter'>
   
-Copied and pasted the run command except for the end that states <'ArrayTests'> for the JUnit testing on the Mac provided in the week 3 of the cs15lsp23 github and added ListExamplesTest to the terminal then pressed <'enter'>
+Typed "bash.sh" and pressed 
 
-### Step 7
+### Step 7  <'enter'>
 ![Image](Step7-1.png)
 
-Ran into errors so I typed nano ListExamples.java to access the nano editor and fix the code.
+Ran into errors so I typed "vim ListExamples.java" and then pressed <'enter'> to access the vim editor and fix the code.
 ![Image](Step7-2.png)
+
+
 Keys pressed: <'down'> 14 times then <'right'> 21 times then <'backspace'> 2 times to delete the '<,0>'
 To fix the second error, I pressed <'down'> 28 more times and <'left'> 6 times to replace the "1" with "2" for "index1"
 
-Next, I pressed Ctrl + X to exit the nano editor and <Y> to confirm to save changes. Then I pressed <'enter'> to return to the terminal.
+Next, I pressed Ctrl + X to exit the vim editor and <Y> to confirm to save changes. Then I pressed <'enter'> to return to the terminal.
 
 ### Step 8
 ![Image](Step8.png)
