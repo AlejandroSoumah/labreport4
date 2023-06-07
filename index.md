@@ -9,7 +9,7 @@ Opened a new terminal and then I  pressed the keys: typing in the login type `ss
 ![Image](Step5-1.png)
 I copied the forked github repo link from my github account.
   
-Keys pressed: `git clone` then `<Ctrl+V? ` then `<enter>` where Ctrl+V contained: `git@github.com:alejandrosoumah/lab7.git`.
+Keys pressed: `git clone` then `<Ctrl+V>` then `<enter>` where Ctrl+V contained: `git@github.com:alejandrosoumah/lab7.git`.
 This pasted the command into the terminal
 
 ### Step 6
@@ -27,10 +27,10 @@ To edit the file "ListExamples.java" into errors so I typed `vim ListExamples.ja
 ![Image](Step7-2.png)
 
 
-Keys pressed: `<down>` 14 times then `<'right'>` 21 times then <'backspace'> 2 times to delete the `<,0>`
-To fix the second error, I pressed `<'down'>` 28 more times and `<'left'>` 6 times to replace the "1" with "2" for "index1"
+Keys pressed: `<down>` 14 times then `<right>` 21 times then <'backspace'> 2 times to delete the `<,0>`
+To fix the second error, I pressed `<down>` 28 more times and `<left>` 6 times to replace the "1" with "2" for "index1"
 
-Next, I pressed `<Ctrl + X>` to exit the vim editor and <Y> to confirm to save changes. Then I pressed `<'enter'>` to return to the terminal.
+Next, I pressed `<Ctrl + X>` to exit the vim editor and <Y> to confirm to save changes. Then I pressed `<enter>` to return to the terminal.
 
 ### Step 8
 ![Image](Step8.png)
