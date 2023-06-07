@@ -15,14 +15,14 @@ Keys pressed: git clone Ctrl+V <'enter'> where Ctrl+V contained: `git@github.com
 ![Image](Step6-1.png)
 Typed "cd" to change the directory. I then wrote "lab7" and then clicked <'enter'> this made it change the directory to "/lab7"
   
-Copied and pasted the compile command for the JUnit testing of the cs15lsp23 github  and then pressed <'enter'>
+In order to see the tests contained in "ListExamples.java", I typed "bash test.sh" and then pressed <'enter'>
   
-Typed "bash.sh" and pressed 
-
 ### Step 7  <'enter'>
 ![Image](Step7-1.png)
 
-Ran into errors so I typed "vim ListExamples.java" and then pressed <'enter'> to access the vim editor and fix the code.
+Typed "cd lab7" to change the working directory to lab7
+
+To edit the file "ListExamples.java" into errors so I typed "vim ListExamples.java" and then pressed <'enter'> to access the vim editor and fix the code.
 ![Image](Step7-2.png)
 
 
