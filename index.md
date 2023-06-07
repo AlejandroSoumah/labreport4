@@ -17,7 +17,7 @@ Typed "cd" to change the directory. I then wrote "lab7" and then clicked <'enter
   
 In order to see the tests contained in "ListExamples.java", I typed "bash test.sh" and then pressed <'enter'>
   
-### Step 7  <'enter'>
+### Step 7  
 ![Image](Step7-1.png)
 
 Typed "cd lab7" to change the working directory to lab7
